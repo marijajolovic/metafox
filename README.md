@@ -1,3 +1,6 @@
+⚠️ Disclaimer ⚠️ Development of the MetaFOX component is migrated to the official GitLab repository of the Faculty of Science, University of Kragujevac.
+Online documentation can be found at https://metafox.readthedocs.io/en/latest/
+
 # MetaFOX
 
 Advanced automated machine learning (AutoML) component, which will significantly simplify the initial model creation within NEMO META-OS by automating the process of model selection, feature engineering, and hyperparameter tuning. MetaFOX uses the power of automation in machine learning to streamline model development, enhance quality of the models, and democratize AI accessibility. It significantly simplifies the initial model creation for **federated learning (FL)** and **transfer learning (TL)** by automating the process of **model selection**, **feature engineering**, and **hyperparameter tuning**.
